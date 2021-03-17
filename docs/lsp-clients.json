@@ -382,6 +382,14 @@
     "debugger": "Yes"
   },
   {
+    "name": "prisma",
+    "full-name": "Prisma",
+    "server-name": "Prisma",
+    "server-url": "https://github.com/prisma/language-tools#readme",
+    "installation": "npm install -g @prisma/language-server",
+    "debugger": "Not available"
+  },
+  {
     "name": "prolog",
     "full-name": "Prolog",
     "server-name": "lsp_server",

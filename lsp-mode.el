@@ -686,6 +686,7 @@ Changes take effect only when a new session is started."
                                         (".*\\.json$" . "json")
                                         (".*\\.jsonc$" . "jsonc")
                                         (".*\\.php$" . "php")
+                                        (".*\\.prisma$" . "prisma")
                                         (ada-mode . "ada")
                                         (sql-mode . "sql")
                                         (vimrc-mode . "vim")
